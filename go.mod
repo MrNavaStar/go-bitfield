@@ -1,4 +1,4 @@
-module github.com/jmatsuzawa/go-bitfield
+module github.com/mrnavastar/go-bitfield
 
 go 1.21.3
 
